@@ -1,0 +1,26 @@
+
+    p{
+      width: 500px;
+    height: 500px;
+    float: left;
+    text-align: justify;
+    }
+    #Cimagen {
+        width: 200;
+        height: 200;
+        padding:7px;
+        margin: 20px 0 0 20px;
+        float: left;
+    }
+
+    #Ctitulo {
+      height: 50px
+    }
+    #Ctitulo h1 {
+      height: 50px;
+      margin: 0
+    }
+    div p {
+      margin-left: 100px;
+
+    }
